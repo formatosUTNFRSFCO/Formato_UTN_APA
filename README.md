@@ -7,7 +7,7 @@ Informe para trabajos prácticos desarrollados para la Universidad Tecnológica 
 
 ### Formato en LibreOffice
 
-![GitHub Logo](/1200px-LibreOffice_logo.png)
+![GitHub Logo](/LibreOffice_logo.png)
 
 El objetivo es utilizar el archivo "FormatoAPA.odt" como plantilla para llevar a cabo un informe de un trabajo práctico propuesto por la cátedra en cuestión. De esta manera se tiene un metodología predeterminada para el desarrollo de informes dentro del departamento de Ingeniería Electrónica. 
 El archivo esta desarrollado en base a las normas APA. Se definen estilos para cada elemento que compone el informe, detallados a continuación.
