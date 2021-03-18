@@ -19,7 +19,7 @@ Para las diferentes partes del informe se utiliza el estilo de nombre "Título 1
 Para el contenido de cada apartado se utiliza el estilo de nombre "Cuerpo de texto con sangría".
 Para la descripción de cada ilustracion se utiliza el estilo de nombre "Figura".
 Para la descripción de cada tabla se utiliza el estilo de nombre "Tabla".
-
+Para las referencias se utiliza el estilo de nombre "Referencias"
 La tipografía implementada es Times New Roman.
 
 A continuación se muestran algunas capturas del resultado en formato pdf.
