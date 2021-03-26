@@ -24,6 +24,6 @@ La tipografía implementada es Times New Roman.
 
 A continuación se muestran algunas capturas del resultado en formato pdf.
 
-![Capt1](/C1.png)
+![Capt1](/screen1.png)
 
-![Capt2](/C2.png)
+![Capt2](/screen2.png)
