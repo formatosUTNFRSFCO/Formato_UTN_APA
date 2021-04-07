@@ -1,6 +1,6 @@
-# Formato APA para trabajos prácticos de UTN
+# Formato APA para informes de UTN
 
-Informe para trabajos prácticos desarrollados para la Universidad Tecnológica Nacional Regional San Francisco, para la carrera de Ingeniería Electrónica.
+Plantilla para informes desarrollados para la Universidad Tecnológica Nacional Regional San Francisco, para la carrera de Ingeniería Electrónica.
 
 ![UTN](/utn_logo.svg)
 
@@ -9,21 +9,29 @@ Informe para trabajos prácticos desarrollados para la Universidad Tecnológica 
 
 ![GitHub Logo](/LibreOffice_logo.png)
 
-El objetivo es utilizar el archivo "Formato_UTN_APA.odt" como plantilla para llevar a cabo un informe de un trabajo práctico propuesto por la cátedra en cuestión. De esta manera se tiene un metodología predeterminada para el desarrollo de informes dentro del departamento de Ingeniería Electrónica. 
-El archivo esta desarrollado en base a las normas APA. Se definen estilos para cada elemento que compone el informe, detallados a continuación.
+El objetivo es utilizar el archivo "Formato_UTN_APA.odt" como plantilla. De esta manera se tiene una metodología predeterminada para el desarrollo de informes dentro del departamento de Ingeniería Electrónica. 
+El archivo esta desarrollado en base a las normas APA. Se definen estilos para cada elemento que compone el documento, detallados a continuación.
 
-Para los encabezados se utiliza el estilo de nombre "Cabecera".
-Para el título principal del trabajo se utiliza el estilo de nombre "Titular".
-Para los autores se utiliza el estilo de nombre "Cuerpo de texto".
-Para las diferentes partes del informe se utiliza el estilo de nombre "Título 1".
-Para el contenido de cada apartado se utiliza el estilo de nombre "Cuerpo de texto con sangría".
-Para la descripción de cada ilustracion se utiliza el estilo de nombre "Figura".
-Para la descripción de cada tabla se utiliza el estilo de nombre "Tabla".
-Para las referencias se utiliza el estilo de nombre "Referencias"
-La tipografía implementada es Times New Roman.
+-El formato de “Cabecera” es con letra Times New Roman, 10.
+
+-El formato de “Cuerpo de texto” es con letra Times New Roman, 12 (justificado, interlineado sencillo).
+
+-El formato de “Cuerpo de texto con sangría” es con letra Times New Roman, 12 (justificado, interlineado sencillo).
+
+-El formato de “Figura” es con letra Times New Roman, 10.
+
+-El formato de “Tabla” es con letra Times New Roman, 10.
+
+-El formato de “Titular” es con letra Times New Roman, 28, bold.
+
+-El formato de “Título 1” es con letra Times New Roman, 14, bold.
+
+-El formato de “Título 2” es con letra Times New Roman, 12, bold.
 
 A continuación se muestran algunas capturas del resultado en formato pdf.
 
 ![Capt1](/screen1.png)
 
 ![Capt2](/screen2.png)
+
+![Capt3](/screen3.png)
