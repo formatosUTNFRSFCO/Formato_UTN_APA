@@ -7,7 +7,7 @@ Plantilla para informes desarrollados para la Universidad Tecnológica Nacional 
 
 ### Formato en LibreOffice
 
-![GitHub Logo](/LibreOffice_logo.png)
+![LibreOffice Logo](/LibreOffice_logo.png)
 
 El objetivo es utilizar el archivo "Formato_UTN_APA.odt" como plantilla. De esta manera se tiene una metodología predeterminada para el desarrollo de informes dentro del departamento de Ingeniería Electrónica. El archivo esta desarrollado en base a normas APA. Se definen estilos para cada elemento que compone el documento, detallados a continuación.
 
